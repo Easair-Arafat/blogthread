@@ -1,0 +1,193 @@
+
+
+
+
+
+
+
+
+
+
+*{margin:0px;padding:0px;outline:0px;}
+img{border:0px;}
+ul,ol{list-style-type:none;}
+a{text-decoration:none;outline: none;}
+.section-padding{padding:25px 0px;}
+.clearfix{clear: both;}
+body{
+	
+	
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:18px;
+	line-height:24px;
+	color:#2e2e2e;
+}
+
+
+/*body css start*/
+header{
+    
+    padding-top:15px;
+}
+
+header h3{
+    color:;
+    font-size:22px;
+    padding-top:10px;
+    padding-left: 5px;
+}
+header h2 {color:#be0b10 !important;padding-top:15px;font-size:24px;text-align: right;}
+.row h2 {text-transform:uppercase; font-size: 18px;font-weight:700px;  color:brown;}
+.row  h2 span{color:#3ca2a2;}
+			
+header .custom-nav {
+	 background-color:#c70811;
+	 border-radius:0;
+	 border:0;
+	 margin-top:10px;
+	 margin-bottom:0;
+	}
+	@media (min-width: 768px) {
+		
+	.custom-form{
+	 
+	 background-color:#E7F1FB;
+	 width:500px;
+	 margin:0px auto;
+	 }
+   }
+  
+		
+@media (max-width: 768px) {
+header .custom-nav {
+    background-color:gray;
+    border-color: rgba(255, 255, 255, 0.3);
+  }
+.custom-form{
+	 
+	background-color:gray;
+	width:250px;
+    margin:0px auto;
+}
+
+
+.navbar-right .dropdown{
+
+
+		 background-color:white;
+}
+
+	
+.slider-img{
+   padding-left :10px;
+     }
+ header h2 {color:#be0b10 !important;padding-top:5px;font-size:24px;text-align:left;
+     }
+
+
+  }
+ 
+.custom-input:hover{
+	padding:;
+  }
+.custom-input{
+	 border-radius:15px;
+    height:40px;
+	width:
+	
+ }
+ 
+.v-center{
+    
+    display: :table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+	
+.notice {
+	background-color:#dfece6;
+	padding:18px 0px 30px 0px;
+	}
+.min-height{
+		
+   min-height:700px;
+
+		
+}
+
+.dropdown a , a span{
+
+font-size:16px;
+font-weight:700px;
+color:white;
+text-decoration: none;
+text-transform: uppercase;
+}
+.dropdown a label{
+
+	color:white;
+}
+
+.dropdown{
+	
+	background-color:#3CA2A2;;
+	
+}
+.navbar-right .dropdown{
+
+         border-radius:20px;
+		 background-color:#c70;
+}
+table tbody tr td:hover{
+
+	padding:5px;
+}
+form select{
+
+	margin:0px auto;
+	width:200px;
+
+}
+	
+.dropdown a:   hover{
+	
+		color:#F18D26;
+	
+}
+.dropdown ul li a:hover{
+
+	color:#F18D26;
+	
+}
+.dropdown  a i{
+
+	color:#C70811;
+	margin-right:5px;
+	
+}
+section.add_form .form-group select{
+
+	border-radius: 15px;
+    color:black;
+	font-size: 18px;
+	height:40px;
+    
+}
+section.add_form .form-group select option{
+
+	border-radius:15px;
+    color:red;
+	font-size: 18px;
+	height:40px;
+    
+}
+span.message{
+
+	padding: 15px;
+	font-size: 18px;
+	color:red;
+	line-height:10px;
+
+}
+
+
