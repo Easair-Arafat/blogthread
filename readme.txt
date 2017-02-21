@@ -1,6 +1,7 @@
 N.B:Please see project with internet connection.
 
-1.go:localhost/blogthread
+1. download the source code and rename the folder as blogthread
+   go:localhost/blogthread
 
 2: visit :Hello guest
          1:user login:user name:rony , pw:rony ,
